@@ -1,4 +1,4 @@
-# [link](https://oximon.github.io/)  
+# [link](https://oximon.github.io/mesto/)  
 ## Mesto  
 Актуальная версия проекта - v1.0.1.  
 Данный проект создан для отработки знаний по Webpack.  
