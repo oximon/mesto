@@ -17,8 +17,6 @@ export default class FormValidator {
   setSubmitButtonState = () => {
     if (!this.form.checkValidity()) {
       this.buttonDissable();
-      // Можно лучше
-      // Else лишний
     } else this.buttonEnable();
   };
 
